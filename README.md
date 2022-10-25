@@ -1,5 +1,5 @@
 # NothingsGoinOn2_en
-translation of NothingsGoinOn2 
+translation of NothingsGoinOn2 (https://github.com/yokkidack/NothingsGoinOn2)
 ![](img/2_ngog_en-1.png)
 ![](img/2_ngog_en-2.png)
 ![](img/2_ngog_en-3.png)
